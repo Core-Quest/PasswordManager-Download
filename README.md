@@ -1,2 +1,2 @@
-# PasswordManager-Download
+# Python PasswordManager
 Simple Password Manager
